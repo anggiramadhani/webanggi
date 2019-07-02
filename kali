@@ -5,11 +5,14 @@
 </head>
 <body>
 <?php
+
 for($awal=1 ;$awal<=10;$awal++) {
 	print "perkalian 8 x".$awal." = ";
 	print 8*$awal;
 	print "<br/>";
 }
+
 ?>
+
 </body>
 </html>
